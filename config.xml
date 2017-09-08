@@ -7,7 +7,7 @@
         most basic of examples, responds to deviceready
     </description>
     <content src="index.html" />
-    <author href="https://github.com/srehan17">
+    <author href="https://srehan17.github.io">
         Sarah Rehan
     </author>
     <access origin="*" />
